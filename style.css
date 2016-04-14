@@ -1,0 +1,44 @@
+h1 {
+	color: pink;
+	font-family: "Arial";
+	background-color: azure;
+	width: 25%;
+}
+
+h2{
+	color: orange;
+	font-family: "Century Gothic";
+	background-color: azure;
+	width: 25%;
+}
+
+p{
+	font-family: "Calibri";
+	background-color: azure;
+	width: 50%;
+}
+
+.blue{
+	color: lightblue;
+}
+
+a{
+	font-family: "Calibri";
+	color: pink;
+	background-color: azure;
+	width: 50%;
+}
+
+.header-text {
+	background-color: azure;
+	width: 30%;
+}
+
+body{
+	
+	background-image: url(http://ih0.redbubble.net/image.185057216.6117/flat,800x800,075,f.u2.jpg);
+}
+
+img{
+	width: 200px;
+}
